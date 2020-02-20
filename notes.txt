@@ -1,0 +1,9 @@
+# ForumCasts
+
+1. Thread
+2. Reply
+3. User
+
+1. A Thread is created by a user
+2. A reply belongs to a thread and also to a user
+
